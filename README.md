@@ -2,6 +2,10 @@
 
 A comprehensive Model Context Protocol (MCP) server that enables AI assistants to interact with WordPress sites through the WordPress REST API. This server provides tools for managing all aspects of WordPress programmatically, including posts, users, comments, categories, tags, and custom endpoints.
 
+<a href="https://glama.ai/mcp/servers/@prathammanocha/wordpress-mcp-server">
+  <img width="380" height="200" src="https://glama.ai/mcp/servers/@prathammanocha/wordpress-mcp-server/badge" alt="WordPress Server MCP server" />
+</a>
+
 ## Features
 
 ### Post Management
