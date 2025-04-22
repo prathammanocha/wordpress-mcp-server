@@ -1,4 +1,4 @@
-# Pratham Manocha's Comprehensive WordPress MCP Server
+# Comprehensive WordPress MCP Server
 
 A comprehensive Model Context Protocol (MCP) server that enables AI assistants to interact with WordPress sites through the WordPress REST API. This server provides tools for managing all aspects of WordPress programmatically, including posts, users, comments, categories, tags, and custom endpoints.
 
