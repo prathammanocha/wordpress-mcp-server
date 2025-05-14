@@ -1,3 +1,5 @@
+[![MseeP.ai Security Assessment Badge](https://mseep.net/pr/prathammanocha-wordpress-mcp-server-badge.png)](https://mseep.ai/app/prathammanocha-wordpress-mcp-server)
+
 # Comprehensive WordPress MCP Server
 
 A comprehensive Model Context Protocol (MCP) server that enables AI assistants to interact with WordPress sites through the WordPress REST API. This server provides tools for managing all aspects of WordPress programmatically, including posts, users, comments, categories, tags, and custom endpoints.
