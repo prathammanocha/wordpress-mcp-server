@@ -48,7 +48,7 @@ A comprehensive Model Context Protocol (MCP) server that enables AI assistants t
 
 1. Clone this repository:
 ```bash
-git clone [repository-url]
+git clone https://github.com/prathammanocha/wordpress-mcp-server.git
 cd wordpress-mcp-server
 ```
 
